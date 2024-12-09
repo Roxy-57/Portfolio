@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import styles from './Skill.module.css';
-import { SiHtml5, SiCss3, SiJavascript, SiMysql, SiReact, SiTypescript, SiBootstrap, SiDocker, SiHeroku, SiGit, SiGithub, SiVim, SiFigma, SiPython, SiCsharp, SiCplusplus, SiC, SiMongodb, SiNodedotjs, SiJquery } from 'react-icons/si';
+import { SiHtml5, SiCss3, SiJavascript, SiMysql, SiReact, SiTypescript, SiBootstrap, SiGit, SiGithub, SiFigma, SiPython, SiCsharp, SiCplusplus, SiC, SiMongodb, SiNodedotjs, SiJquery } from 'react-icons/si';
 
 const Skill: React.FC = () => {
   //객체 별로 사용하기 편안하게 선언
