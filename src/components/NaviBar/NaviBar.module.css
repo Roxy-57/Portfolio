@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #004d00; /* 진한 초록색 */
+  border-bottom: 3px solid #ffdf00; /* 금색 구분선 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* 살짝의 그림자 */
+}
+
+.navBrand {
+  font-size: 1.5rem;
+  color: #ffdf00; /* 금색 글자 */
+  font-weight: bold;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.navBrand:hover {
+  color: #ffffff; /* 호버 시 흰색 */
+}
+
+.navLink {
+  font-size: 1rem;
+  color: #ffffff; /* 기본 흰색 */
+  transition: color 0.3s;
+}
+
+.navLink:hover {
+  color: #ffdf00; /* 호버 시 금색 강조 */
+  text-decoration: none;
+}
+
+.navLink a {
+  text-decoration: none;
+  color: inherit; /* 부모 색상 상속 */
+}
+
+.navLink a:hover {
+  text-decoration: underline; /* 링크 호버 시 밑줄 */
+}
