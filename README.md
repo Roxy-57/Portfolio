@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+# 포트폴리오
+## 요약
+>리액트를 활용한 포트폴리오 구현
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 제작 이유
+제작 기간이 11월 말이기에 곧 12월의 크리스마스 연말 분위기가 되어 크리스마스 테마로
+자신을 소개하는 포트폴리오를 만들어보고자 제작하게되었습니다.
 
-## Available Scripts
+## 소개
+- React를 활용하여 컴포넌트를 사용하여 조금 더 관리에 용이하게 구현
+- TypeScript를 사용하여 JavaScript의 단점을 보완하여 구현
+- 크리스마스 연말 분위기를 내기위해 눈송이 애니메이션을 구현
+- 리액트 라이브러리를 사용하여 매끄러운 스크롤 구현
+- 리액트 부트스트랩을 사용하여 깔끔한 UI구현
 
-In the project directory, you can run:
+작업 기간
+- 2024.11.18 ~11.25 (1주)
+개인 프로젝트
 
-### `npm start`
+## 기술 스택 (Skill)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+## 느낀점
+- 컴포넌트로 나누어서 구현하였을때 코드의 재사용성이나 구현에 도움이 많이된것 같습니다.
+- 리액트 부트스트랩을 사용하여 기본 스타일 구성하여 제작 소요기간을 단축시킬수 있었습니다.
+- 엄격한 타입스크립트를 사용하여 자잘한 타입 미지정 오류가 발생하였지만 코드를 확인하였을때 코드에 직관적으로 타입이 적혀있어 코드에 역활을 알기 쉬웠습니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 프로젝트 이미지
+| ![홈](https://github.com/user-attachments/assets/19c4dbe1-656c-4ed0-b6d2-27863f9936f9) |![자기소개](https://github.com/user-attachments/assets/53419df2-73b3-49bf-adcc-e59a6c76a067) |
+|----------------------|---------------------|
+|![스킬](https://github.com/user-attachments/assets/70ad3948-32c9-42f1-8409-f48dbfd9f246)| ![프로젝트](https://github.com/user-attachments/assets/3e90796d-cd00-45a5-8e0b-f24199409ae9)|
