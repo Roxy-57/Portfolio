@@ -20,10 +20,6 @@
 ## 기술 스택 (Skill)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-## 느낀점
-- 컴포넌트로 나누어서 구현하였을때 코드의 재사용성이나 구현에 도움이 많이된것 같습니다.
-- 리액트 부트스트랩을 사용하여 기본 스타일 구성하여 제작 소요기간을 단축시킬수 있었습니다.
-- TypeScript를 사용해 코드 작성 시 타입 안정성을 확보함으로써 예상치 못한 버그를 예방했지만, 초기에는 익숙하지 않아 오히려 자잘한 오류를 경험하기도 했습니다.
 
 ## 문제 해결
 **문제 1**
@@ -41,6 +37,13 @@
 - **컴포넌트 간 스타일이 충돌하여 일관된 디자인을 유지하는 데 어려움 발생**
 - **CSS Modules를 활용하여 컴포넌트별로 스타일을 독립적으로 관리함으로써 스타일 충돌 문제를 해결**
   
+
+## 느낀점
+- 컴포넌트로 나누어서 구현하였을때 코드의 재사용성이나 구현에 도움이 많이된것 같습니다.
+- 리액트 부트스트랩을 사용하여 기본 스타일 구성하여 제작 소요기간을 단축시킬수 있었습니다.
+- TypeScript를 사용해 코드 작성 시 타입 안정성을 확보함으로써 예상치 못한 버그를 예방했지만, 초기에는 익숙하지 않아 오히려 자잘한 오류를 경험하기도 했습니다.
+
+
 ## 프로젝트 이미지
 | ![홈](https://github.com/user-attachments/assets/19c4dbe1-656c-4ed0-b6d2-27863f9936f9) |![자기소개](https://github.com/user-attachments/assets/53419df2-73b3-49bf-adcc-e59a6c76a067) |
 |----------------------|---------------------|
