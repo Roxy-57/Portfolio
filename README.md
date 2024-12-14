@@ -40,7 +40,7 @@
 
 - **컴포넌트 간 스타일이 충돌하여 일관된 디자인을 유지하는 데 어려움 발생**
 - **CSS Modules를 활용하여 컴포넌트별로 스타일을 독립적으로 관리함으로써 스타일 충돌 문제를 해결**
-- 
+  
 ## 프로젝트 이미지
 | ![홈](https://github.com/user-attachments/assets/19c4dbe1-656c-4ed0-b6d2-27863f9936f9) |![자기소개](https://github.com/user-attachments/assets/53419df2-73b3-49bf-adcc-e59a6c76a067) |
 |----------------------|---------------------|
